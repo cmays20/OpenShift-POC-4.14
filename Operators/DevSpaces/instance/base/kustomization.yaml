@@ -6,4 +6,3 @@ namespace: openshift-devspaces
 resources:
   - checluster.yaml
   - namespace.yaml
-  - network-policy.yaml
