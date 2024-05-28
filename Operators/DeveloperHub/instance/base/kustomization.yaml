@@ -7,3 +7,4 @@ commonAnnotations:
 
 resources:
   - backstage.yaml
+  - app-config-rhdh.yaml
