@@ -4,3 +4,4 @@ resources:
   - ../../gitlab
   - ../../gitlab-runner
   - ../../virtualization
+  - ../../developer-hub
